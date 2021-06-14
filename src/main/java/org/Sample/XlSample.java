@@ -44,8 +44,10 @@ public class XlSample {
 	    	FileOutputStream fos=new FileOutputStream(f);
 	    	workBook.write(fos);
 	    	System.out.println("greens update");
+	    	System.out.println("tech update");
+
 	    	System.out.println("greens update 1");
-	    	
+
 	    }
 }
 }
