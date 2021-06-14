@@ -46,9 +46,8 @@ public class XlSample {
 	    	System.out.println("greens update");
 	    	System.out.println("tech update");
 
-	    	
+	    	System.out.println("greens update 1");
 
-	    	
 	    }
 }
 }
